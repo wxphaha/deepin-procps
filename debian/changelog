@@ -1,3 +1,9 @@
+procps (2:4.0.5-1deepin2) unstable; urgency=medium
+
+  * feat: add sw64 support.
+
+ -- hudeng <hudeng@deepin.org>  Wed, 04 Jun 2025 10:46:13 +0800
+
 procps (2:4.0.5-1deepin1) unstable; urgency=medium
 
   * fix mem leak.

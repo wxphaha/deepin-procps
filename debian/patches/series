@@ -3,3 +3,4 @@ disable_sched_test
 uptime_test
 pmap_test
 uniontech-fix-sysctl-mem-leak.patch
+0001-deepin-sw_64-support.diff

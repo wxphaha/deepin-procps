@@ -1,0 +1,14 @@
+diff --git a/src/ps/global.c b/src/ps/global.c
+index cc4fa24..e34128c 100644
+--- a/src/ps/global.c
++++ b/src/ps/global.c
+@@ -582,6 +582,9 @@ static const char archdefs[] =
+ #ifdef __sparc_v9__
+ " sparc_v9"
+ #endif
++#ifdef __sw_64__
++" sw_64"
++#endif
+ #ifdef __x86_64__
+ " x86_64"
+ #endif
